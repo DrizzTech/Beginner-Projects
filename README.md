@@ -1,1 +1,3 @@
-Hello User! This is a game of Rock-Paper-Scissors.
+Hello User,
+
+This is a compliation of all my early Python Projects.
